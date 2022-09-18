@@ -1,0 +1,21 @@
+#countdown{
+    background-color: magenta;
+    font-size: 150px;
+    width: fit-content;
+    border: 3px solid;
+    margin-left: auto;
+    margin-right: auto;
+}
+input[type=number]{
+    width: 64px;
+    height: 36px;
+    font-size: 32px;
+}
+label{
+    font-size: 36px;
+}
+button{
+    width: 120px;
+    height: 50px;
+    font-size: 36px;
+}
